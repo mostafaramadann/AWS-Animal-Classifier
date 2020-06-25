@@ -12,6 +12,8 @@
 /captures
 .externalNativeBuild
 .cxx
+*.a
+*.so
 
 #amplify
 amplify/\#current-cloud-backend
