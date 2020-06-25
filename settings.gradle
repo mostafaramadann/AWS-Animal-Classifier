@@ -1,0 +1,3 @@
+rootProject.name='AnimalClassifier'
+include ':app'
+include ':openCVLibrary340'

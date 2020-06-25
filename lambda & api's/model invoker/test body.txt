@@ -1,0 +1,7 @@
+{
+  "resource": "/invoke-modelEndpoint",
+  "path": "/invoke",
+  "httpMethod": "POST",
+  "headers": null,
+  "body": "{\"name\":\"cat.jpg\"}"
+}

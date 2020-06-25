@@ -1,0 +1,15 @@
+{
+    "android": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-animalclassifier-android-222451-authRole",
+            "UnauthRoleArn": "arn:aws:iam::117344610178:role/amplify-animalclassifier-android-222451-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::117344610178:role/amplify-animalclassifier-android-222451-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-animalclassifier-android-222451-deployment",
+            "UnauthRoleName": "amplify-animalclassifier-android-222451-unauthRole",
+            "StackName": "amplify-animalclassifier-android-222451",
+            "StackId": "arn:aws:cloudformation:us-east-1:117344610178:stack/amplify-animalclassifier-android-222451/ffe82480-8344-11ea-ba9c-0ea20f614b35",
+            "AmplifyAppId": "d31p3pe8v2pot2"
+        }
+    }
+}
